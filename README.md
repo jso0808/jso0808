@@ -1,4 +1,4 @@
-### Hi there 👋
+### 꾸준하게 뚜벅뚜벅 🌱
 
 <!--
 **jso0808/jso0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
